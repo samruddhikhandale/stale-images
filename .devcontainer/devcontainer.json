@@ -1,7 +1,7 @@
 {
-	"image": "mcr.microsoft.com/devcontainers/base:0-ubuntu",
+	"image": "mcr.microsoft.com/devcontainers/base:ubuntu",
 	"features": {
-		"ghcr.io/devcontainers/features/go:1": {
+		"ghcr.io/devcontainers/features/go:1.0.2": {
 			"version": "latest"
 		}
 	}
