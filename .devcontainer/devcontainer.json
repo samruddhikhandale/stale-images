@@ -1,3 +1,8 @@
 {
-	"image": "mcr.microsoft.com/devcontainers/base:0.203.0-ubuntu-20.04"
+	"image": "mcr.microsoft.com/devcontainers/base:latest",
+	"features": {
+		"ghcr.io/devcontainers/features/go:1.2.0": {
+			"version": "latest"
+		}
+	}
 }
